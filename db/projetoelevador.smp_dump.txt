@@ -1,0 +1,12 @@
+
+State Machine - |projetoelevador|state
+Name state.j state.h state.g state.f state.e state.d state.c state.b state.a 
+state.a 0 0 0 0 0 0 0 0 0 
+state.b 0 0 0 0 0 0 0 1 1 
+state.c 0 0 0 0 0 0 1 0 1 
+state.d 0 0 0 0 0 1 0 0 1 
+state.e 0 0 0 0 1 0 0 0 1 
+state.f 0 0 0 1 0 0 0 0 1 
+state.g 0 0 1 0 0 0 0 0 1 
+state.h 0 1 0 0 0 0 0 0 1 
+state.j 1 0 0 0 0 0 0 0 1 
